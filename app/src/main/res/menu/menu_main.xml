@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menu_locate"
+        android:orderInCategory="100"
+        android:title="Locate me"/>
+    <item
+        android:id="@+id/menu_start"
+        android:orderInCategory="200"
+        android:title="Start track"/>
+    <item
+        android:id="@+id/menu_stop"
+        android:orderInCategory="300"
+        android:title="Stop track"/>
+    <item
+        android:id="@+id/menu_back"
+        android:orderInCategory="400"
+        android:title="Track back"/>
+
+</menu>
